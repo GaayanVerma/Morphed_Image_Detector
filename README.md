@@ -3,6 +3,7 @@ Project which uses Convolutional Neural Network (CNN) in combination with Error 
 
 ## Architecture
 ![full-architecture](image.png)
+![full-architecture](Layers.PNG)
 
 ## Result
-![ResultGraph](Result Graph.png)
+![ResultGraph](ResultGraph.png)

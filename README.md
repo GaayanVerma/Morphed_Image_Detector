@@ -5,4 +5,4 @@ Project which uses Convolutional Neural Network (CNN) in combination with Error 
 ![full-architecture](image.png)
 
 ## Result
-![Result_Graph](Result Graph.png)
+![ResultGraph](Result Graph.png)
